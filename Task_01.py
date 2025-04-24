@@ -20,6 +20,4 @@ df.to_csv('Titanic-Dataset-cleaned.csv',index=False)
 print("clean data successfully")
 
 
-#Convert categorical features into numerical using encoding.
-# Convert any column with few unique int values to 'object' type
 
